@@ -8,7 +8,7 @@ Always set your email as a parameter to Entrez.email
 from Bio import Entrez, SeqIO
 import time
 
-Entrez.email = "adhshreya00@gmail.com"  #required as NCBI blocks without it
+Entrez.email = "youremail@example.com"  #required as NCBI blocks without it
 #optional- Entrz.api_key = "your_api_key"  :  raises the rate limit from 3 to 10 requests per second
 
 # 1. SEARCH: get database IDs 

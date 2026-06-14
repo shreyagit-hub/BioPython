@@ -6,7 +6,7 @@ I created this folder as a personal learning space to explore the BioPython libr
 
 The goal is not just to read documentation, but to practice core BioPython workflows and document the kinds of operations that feel most useful for bioinformatics work.
 
-## What I learned here
+## What I learned here (in order)
 
 This learning folder covers the following core BioPython topics:
 
